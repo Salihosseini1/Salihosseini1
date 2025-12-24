@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 سلام، من علی هستم
 
-<!--
-**Salihosseini1/Salihosseini1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 دانشجوی نرم‌افزار  
+💻 علاقه‌مند به برنامه‌نویسی  
 
-Here are some ideas to get you started:
+### 🛠 مهارت‌ها
+- HTML, CSS
+- Git & GitHub
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 سوابق کاری
+- پروژه دانشجویی فروشگاه آنلاین
+- تمرین‌های گروهی
+
+### 📫 راه‌های ارتباطی
+- Instagram: @username
+- Telegram: @username
