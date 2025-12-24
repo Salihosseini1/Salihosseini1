@@ -7,7 +7,8 @@
 - HTML, CSS
 - Git & GitHub
 - Python
-
+- Financial markets
+- Digital marketing
 ### 💼 سوابق کاری
 - پروژه دانشجویی فروشگاه آنلاین
 - تمرین‌های گروهی
